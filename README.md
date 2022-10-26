@@ -1,4 +1,5 @@
-# MAKERS ACADEMY '22 - GOALS, EVIDENCE & REFLECTIONS
+# MAKERS ACADEMY 2022
+## GOALS, EVIDENCE & REFLECTIONS
 
 Hello. Welcome to my 'GER' page and my journey to become a Junior Software Developer.
 
