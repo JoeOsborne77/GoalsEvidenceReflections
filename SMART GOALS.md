@@ -30,18 +30,15 @@
 
 # EVIDENCE AND REFLECTIONS
 ## WEEK 1-2 EVIDENCE 
-[Week-1 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
-
-[Week-2 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
-
-
+[WEEK 1 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
+[WEEK 2 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
 
 ## WEEK 1-2 REFLECTIONS 
 
 
 
 ## WEEK 3 EVIDENCE 
-[Week-3 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_3)
+[WEEK 3 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_3)
 
 
 
@@ -50,7 +47,7 @@
 
 
 ## WEEK 4 EVIDENCE 
-[Week-4 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_4)
+[WEEK 4 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_4)
 
 
 
@@ -59,7 +56,7 @@
 
 
 ## WEEK 5 EVIDENCE
-[Week-5 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_5)
+[WEEK 5 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_5)
 
 
 
@@ -68,7 +65,7 @@
 
 
 ## WEEK 6 EVIDENCE
-[Week-6 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6)
+[WEEK 6 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6)
 
 
 
@@ -77,7 +74,7 @@
 
 
 ## WEEK 7 EVIDENCE 
-[Week-7 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7)
+[WEEK 7 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7)
 
 
 
@@ -86,8 +83,8 @@
 
 
 ## WEEK 8-9 EVIDENCE
-[Week-7 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7)
-[Week-8 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_8)
+[WEEK 8 PROKECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7)
+[WEEK 9 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_8)
 
 
 
@@ -96,7 +93,7 @@
 
 
 ## WEEK 10 EVIDENCE 
-[Week-10 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_10)
+[WEEK 10 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_10)
 
 
 
@@ -105,8 +102,8 @@
 
 
 ## WEEK 11-12 EVIDENCE
-[Week-11 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_11)
-[Week-12 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_12)
+[WEEK 11 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_11)
+[WEEK 12 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_12)
 
 
 
