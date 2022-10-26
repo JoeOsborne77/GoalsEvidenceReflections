@@ -1,4 +1,4 @@
-# LearningJourney
+# Learning Journey
 
 Hello. Welcome to my learning journey.
 
@@ -12,4 +12,4 @@ subgoals and use evidence to reinforce my understanding on specific topics, tech
 
 Please take a look at my projects and check out my blog too; https://medium.com/@joeosborne77
 
-✌️ ### LearningJourney
+✌️ #alwayslearning
