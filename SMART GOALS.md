@@ -5,7 +5,7 @@
 **WEEK** | **GOALS** | **MARKERS** | **ACHIEVED?** | **EVIDENCE** |
 
 
-| Name                         | Description       | Tech/tools        |
+| **WEEK**                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
