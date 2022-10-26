@@ -1,7 +1,6 @@
-# GER!
-## GOALS | EVIDENCE | REFLECTIONS
+# MAKERS ACADEMY '22 - GOALS, EVIDENCE & REFLECTIONS
 
-Hello. Welcome to my journey to become a Junior Software Developer.
+Hello. Welcome to my 'GER' page and my journey to become a Junior Software Developer.
 
 I will use this space to reflect on my time at Makers Academy as well as projects, specific weeks and general insights in learning how to learn. I am willfully trying to adopt the [Ready Position](https://sjmog.github.io/posts/491_learning_to_learn_1/) and [Pomodoro Technique](https://images.prismic.io/sketchplanations/62e61034-b66a-4ede-a5db-a5cbc39d55e7_SP+587+-+The+Pomodoro+technique.jpg?auto=format&ixlib=react-9.0.3&h=1887.557603686636&w=1600), which have already proven effective. 
 
