@@ -30,8 +30,9 @@
 
 # EVIDENCE AND REFLECTIONS
 ## WEEK 1-2 EVIDENCE 
-[Week-1 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
-[Week-2 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
+[Week-1 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
+
+[Week-2 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
 
 
 
