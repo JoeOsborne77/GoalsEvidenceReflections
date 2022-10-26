@@ -28,58 +28,85 @@
 
 
 
-
-
 # EVIDENCE AND REFLECTIONS
 ## WEEK 1-2 EVIDENCE 
+[Week-1 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
+[Week-2 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
+
 
 
 ## WEEK 1-2 REFLECTIONS 
 
- 
+
+
 ## WEEK 3 EVIDENCE 
+[Week-3 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_3)
+
 
 
 ## WEEK 3 REFLECTIONS 
 
 
+
 ## WEEK 4 EVIDENCE 
+[Week-4 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_4)
+
 
 
 ## WEEK 4 REFLECTIONS 
 
 
-## WEEK 5 EVIDENCE 
+
+## WEEK 5 EVIDENCE
+[Week-5 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_5)
+
 
 
 ## WEEK 5 REFLECTIONS 
 
 
-## WEEK 6 EVIDENCE 
+
+## WEEK 6 EVIDENCE
+[Week-6 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6)
+
 
 
 ## WEEK 6 REFLECTIONS
 
 
+
 ## WEEK 7 EVIDENCE 
+[Week-7 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7)
+
 
 
 ## WEEK 7 REFLECTIONS  
 
 
-## WEEK 8-9 EVIDENCE 
+
+## WEEK 8-9 EVIDENCE
+[Week-7 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7)
+[Week-8 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_8)
+
 
 
 ## WEEK 8-9 REFLECTIONS 
 
 
+
 ## WEEK 10 EVIDENCE 
+[Week-10 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_10)
+
 
 
 ## WEEK 10 REFLECTIONS 
 
 
-## WEEK 11-12 EVIDENCE 
+
+## WEEK 11-12 EVIDENCE
+[Week-11 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_11)
+[Week-12 Work](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_12)
+
 
 
 ## WEEK 11-12 REFLECTIONS 
