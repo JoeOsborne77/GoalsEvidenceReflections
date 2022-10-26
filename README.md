@@ -1,4 +1,4 @@
-# Learning Journey
+# Joe's Learning Journey
 
 Hello. Welcome to my learning journey.
 
