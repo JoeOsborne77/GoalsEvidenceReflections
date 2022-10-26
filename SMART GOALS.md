@@ -2,8 +2,8 @@
 ### Specific 🖋️ | Measurable ⚖️ | Attainable 🏋️‍♂️ | Realistic 🤔 | Timebound ⏳
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-[MAKERS GOALS AND MY MARKERS](#GOALS)
-[EVIDENCE AND REFLECTIONS](#EVIDENCE-AND-REFLECTIONS)
+#[**MAKERS GOALS AND MY MARKERS**](#GOALS)
+#[**EVIDENCE AND REFLECTIONS**](#EVIDENCE-AND-REFLECTIONS)
 
 #GOALS
 
