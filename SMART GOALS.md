@@ -2,13 +2,9 @@
 ### Specific	Measurable	Attainable	Realistic	Timebound
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-**WEEK** | **GOALS** | **MARKERS** | **ACHIEVED?** | **EVIDENCE** |
 
-
-| **WEEK**                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **WEEK** |     **GOALS**     |    **MARKERS**    | **ACHIEVED?** |     **EVIDENCE**       |
+| ---------|-------------------|-------------------|---------------|------------------------|
 
 ## WORK EXPERIENCE
 
