@@ -11,6 +11,6 @@ subgoals and use evidence to reinforce my understanding on specific topics, tech
 ⭐ [***EVIDENCE AND WEEKLY REFLECTIONS***](https://github.com/JoeOsborne77/LearningJourney/blob/main/SMART%20GOALS.md#EVIDENCE-AND-REFLECTIONS)  
 ⭐ [***DEEPER, SUBGOALS***](https://docs.google.com/spreadsheets/d/1-fKejXd-mQTBIqGHLAu02ZOWXDcI5Dfl11g1n_sJp0o/edit?usp=sharing)
 
-Please take a look at my projects and check out my blog and other [***creative pursuits🖋️👨‍💻🎶***](https://linktr.ee/joeosborne77)
+Please take a look at my projects and check out my blog and other [***creative pursuits 🖋️👨‍💻🎶***](https://linktr.ee/joeosborne77)
 
 ✌️ #alwayslearning
