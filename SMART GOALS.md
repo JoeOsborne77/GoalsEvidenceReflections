@@ -31,9 +31,12 @@
 # EVIDENCE AND REFLECTIONS
 ## WEEK 1-2 EVIDENCE 
 [WEEK 1 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)  
-[WEEK 2 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)
+[WEEK 2 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)<br>
+<a href="https://youtu.be/ZlfRHgs4TC4">
+<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_1/GoldenSq.png" width="300" height="300" />
 
 ## WEEK 1-2 REFLECTIONS 
+[![WEEKS 1 & 2 Reflections](http://i3.ytimg.com/vi/ZlfRHgs4TC4/hqdefault.jpg)](https://youtu.be/ZlfRHgs4TC4 "The Golden Square")
 
 
 
