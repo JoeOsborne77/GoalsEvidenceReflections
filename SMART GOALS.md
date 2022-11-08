@@ -38,7 +38,7 @@
 <img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_1/GoldenSq.png" width="300" height="300" />
 
 ## WEEK 1-2 REFLECTIONS 
-[![WEEKS 1 & 2 Reflections](http://i3.ytimg.com/vi/ZlfRHgs4TC4/hqdefault.jpg)](https://youtu.be/ZlfRHgs4TC4 "The Golden Square")
+[The Golden Square](https://youtu.be/ZlfRHgs4TC4)
 
 
 
@@ -48,8 +48,7 @@
   
 
 ## WEEK 3 REFLECTIONS 
-[![WEEKS 3 Reflections](http://i3.ytimg.com/vi/_uzwO_zIVck/hqdefault.jpg)](https://youtu.be/_uzwO_zIVck "Databases")
-
+[Databases](https://youtu.be/_uzwO_zIVck)
 
 
 
