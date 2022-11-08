@@ -29,7 +29,7 @@
 
 
 # EVIDENCE AND REFLECTIONS
-[GENERAL COURSE NOTES / SCRAB BOOKS
+[GENERAL COURSE NOTES / SCRAPS
 ](https://drive.google.com/drive/folders/1FsjbMQFjPEdXe4FmdkzqBRawRi0gKlgz?usp=share_link)
 ## WEEK 1-2 EVIDENCE 
 [WEEK 1 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_1)  
