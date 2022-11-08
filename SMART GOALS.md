@@ -44,10 +44,12 @@
 
 ## WEEK 3 EVIDENCE 
 [WEEK 3 PROJECTS](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_3)
-
-
+  
+  
 
 ## WEEK 3 REFLECTIONS 
+[![WEEKS 3 Reflections](http://i3.ytimg.com/vi/_uzwO_zIVck/hqdefault.jpg)](https://youtu.be/_uzwO_zIVck "Databases")
+
 
 
 
