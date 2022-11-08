@@ -14,3 +14,13 @@ Feel free to say hi 👋 and take a look around. I have used the amazing framewo
 Please take a look at my projects and check out my blog and other [***creative pursuits 🖋️👨‍💻🎶***](https://linktr.ee/joeosborne77)
 
 ✌️ #alwayslearning 
+
+## POST COURSE REFLECTION 
+Throughout the course I thoroughly enjoyed learning about my own prefered styles of learning. Seeing which things are sticking and which  aren't and why has been a rewarding and necessary process to go through. The main takeaway for me is that I enjoy a balance of everything;
+- Listening to and taking notes in workshops
+- Pairing and asking questions to my peers
+- Researching online (mostly prefer video / visual learning in this instance)
+- Deep solo work, particularly in the evenings find it easier to enter 'flow-state'
+- Last but not least getting my hands duty and hands on learning.
+
+I found a balance of all of them and being clear about setting a rhythm and boundaries with pairing etc. to be really effective and feel I got a lot out of all of these different methods and can now apply them to my career and various aspects of my life!
