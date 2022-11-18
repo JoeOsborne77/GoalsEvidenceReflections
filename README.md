@@ -21,6 +21,6 @@ Throughout the course I thoroughly enjoyed learning about my own prefered styles
 - Pairing and asking questions to my peers
 - Researching online (mostly prefer video / visual learning in this instance)
 - Deep solo work, particularly in the evenings I find it easier to enter 'flow-state'
-- Last but not least getting my hands duty and hands on learning
+- Last but not least getting my hands dirty and hands on learning
 
 I found a balance of all of them and being clear about setting a rhythm and boundaries with pairing etc. to be really effective and feel I got a lot out of all of these different methods and can now apply them to my career and various aspects of my life!
